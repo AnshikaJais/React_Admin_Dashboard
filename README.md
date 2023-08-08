@@ -31,6 +31,11 @@ The React Admin Dashboard is a web application that serves as a control panel fo
   ```http://localhost:3000```
 
 
+### LIVE LINK
+
+```https://react-admin-dashboard-anshika.vercel.app/```
+
+
 ## TECH STACKS AND DEPENDENCIES
 
 The project utilizes several key dependencies, including but not limited to:
