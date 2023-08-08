@@ -33,7 +33,8 @@ The React Admin Dashboard is a web application that serves as a control panel fo
 
 ### LIVE LINK
 
-```https://react-admin-dashboard-anshika.vercel.app/```
+[React Admin Dashboard](https://react-admin-dashboard-anshika.vercel.app)
+
 
 
 ## TECH STACKS AND DEPENDENCIES
