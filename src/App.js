@@ -84,7 +84,6 @@ function App() {
                                         path="/ecommerce"
                                         element={<Ecommerce />}
                                     />
-
                                     {/* Pages */}
                                     <Route
                                         path="/orders"
